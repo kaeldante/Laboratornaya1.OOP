@@ -4,6 +4,8 @@ using System.Linq;
 class Program {
   public class Buyer
     {
+        Console.WriteLine("Лабораторная работа 1. Вариант 6");
+        Console.WriteLine("=================================");
         private double[] _paymentHistory;
         private double _discountProvided;
  
